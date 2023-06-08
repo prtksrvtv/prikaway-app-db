@@ -4,3 +4,5 @@ _pycache
 PRIKAWAY_REWARI_LOGO.png
 python-access-357214-446b081bdda7.json
 *.pyc
+*.png
+*.pdf
